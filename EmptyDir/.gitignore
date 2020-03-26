@@ -1,0 +1,3 @@
+# alle dateien bis auf .gitignore ignorieren
+*
+!.gitignore

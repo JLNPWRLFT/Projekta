@@ -24,4 +24,8 @@ public class Car{
     public void setActualSpeed(int actualSpeed) {
         this.actualSpeed = actualSpeed;
     }
+
+    public void accelerate(){
+        this.actualSpeed += 5;
+    }
 }
